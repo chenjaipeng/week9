@@ -15,13 +15,16 @@
 ![image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557655628003&di=3ccb78127192821995d903be9f2406df&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20181017%2F580a0c2fe09c4387911c7e1683946cd5.jpeg)
 
 这些[寒蝉效应]()，影响着人们使用互联网监管政府的能力。现在最重要的事，不是争论是否互联网应帮助好人而不是坏人。要使那些最完善的技术和互联网理解再好的人胜过任何对手。现今的问题就是我们要如何确保互联网是按以民为本的方式发展。技术唯一合法的目的是改善我们的生活，而不是操纵或是奴役我们。最终是服务于人类，我们不必牺牲我们的权利。机器而不是架空人类，在人类之上，要以民为本的发展。
+
 ***  
 ***关键词***  
 再生与消亡  
 随机善意  
 操控  
 拒绝
+
 ***
+
 **参考视频**  
 Scott Galloway：亚马逊、苹果、脸书和谷歌是如何操控我们的情感的<https://www.ted.com/talks/scott_galloway_how_amazon_apple_facebook_and_google_manipulate_our_emotions/reading-list?language=zh-cn>  
 乔纳森·兹特瑞：：网络中的随机善良行为<https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=zh-cn>  
